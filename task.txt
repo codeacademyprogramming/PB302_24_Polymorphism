@@ -1,0 +1,22 @@
+Shape class
+ - CalculateArea()
+
+Rectangle
+ - width
+ - height
+
+Circle
+ - radius
+
+Gonderilmis shapeler 
+siyahisindaki kvadratlarin 
+sayin qaytaran metod
+
+ShapeManager
+ - Shapes
+ - GetCircleCount()
+ - GetRectangleCount()
+ - GetTotalCircleAreas()
+ - GetTotalRectangleAreas()
+ 
+
